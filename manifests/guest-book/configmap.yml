@@ -4,3 +4,4 @@ metadata:
   name: guest-book
 data:
   ui_properties_file_name: "abhishek-interface.properties"
+  db-port: "3306"
